@@ -92,6 +92,7 @@ C does not inherently check that writes are in bnoundss.
 1) stack based
 2) heap based. 
 
+[/insert  buffer_overflow_example photo /]
 
 
 
