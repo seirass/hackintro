@@ -44,7 +44,7 @@ Endianness describes how multi-byte values are stored in memory.
 
 ## Execution Workflow
 
-![Execution Workflow](images/execution_workflow.png)
+![Execution Workflow](images/exectution_workflow.png)
 
 ---
 
@@ -72,7 +72,7 @@ A buffer overflow occurs when data is written outside the memory allocated for a
 1. Stack-based
 2. Heap-based
 
-![Buffer Overflow Example](images/buffer_overflow_example.png)
+![Buffer Overflow Example](images/buffer_overflow_ex1.png)
 
 ---
 
