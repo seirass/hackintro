@@ -74,36 +74,7 @@ A buffer overflow occurs when data is written outside the memory allocated for a
 
 ![Buffer Overflow Example](images/buffer_overflow_ex1.png)
 
----
 
-# How to Add Your Photos
-
-Create an `images` folder beside the Markdown file:
-
-```text
-lecture-folder/
-├── lec2_styled.md
-└── images/
-    ├── stack_1.png
-    ├── tolower_stack.png
-    ├── compilation_pipeline.png
-    ├── execution_workflow.png
-    └── buffer_overflow_example.png
-```
-
-Use Markdown image syntax:
-
-```md
-![Stack Frame](images/stack_1.png)
-```
-
-You can also control image size in Obsidian:
-
-```md
-![[stack_1.png|600]]
-```
-
-or in GitHub-compatible HTML:
 
 ```html
 <img src="images/stack_1.png" width="600">
